@@ -4,7 +4,7 @@
 `Download & Installation`
 
 **Using FiveM**
-```fvm install --save --folder=esx olvidate/fivem-appearance-esx```
+```FiveM install --save --folder=esx olvidate/fivem-appearance-esx```
 
 **Using Git**
 ```cd resources
