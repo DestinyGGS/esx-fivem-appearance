@@ -12,9 +12,9 @@ cd resources
 
 **Installation**
 
-```Download https://github.com/pedr0fontoura/fivem-appearance```
-Add two flags on server.cfg
-setr fivem-appearance:customization``` 1 %
+***Download*** https://github.com/pedr0fontoura/fivem-appearance
+***Add two flags on server.cfg***
+setr fivem-appearance:customization 1 %
 setr fivem-appearance:locale "en"
 Add ensure fivem-appearance-esx to your server.cfg
 
